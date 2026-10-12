@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "type": "service",
+        "name": "Domain & Hosting",
+        "icon": "fas fa-server",
+        "description": "Database backup and storage provides centrally controlled protection, security of enterprise and reduces the possibility...",
+        "serviceTitle": "domain-hosting"
+    },
+    {
+        "id": 2,
+        "type": "service",
+        "name": "ERP Consulting",
+        "icon": "fas fa-building",
+        "description": "We provide IT consulting services which includes project management. Rupantor’s General...",
+        "serviceTitle": "erp-consulting"
+    },
+    {
+        "id": 3,
+        "type": "service",
+        "name": "Web & E-Commerce",
+        "icon": "fab fa-opencart",
+        "description": "We have helped corporations within and across the boundaries by launching successfully e-business solutions...",
+        "serviceTitle": "web-ecommerce"
+    },
+    {
+        "id": 4,
+        "type": "service",
+        "name": "Custom Applications",
+        "icon": "fas fa-cogs",
+        "description": "We work with clients to assess their unique needs in a discovery phase, define a realistic project scope...",
+        "serviceTitle": "custom-applications"
+    },
+    {
+        "id": 5,
+        "type": "service",
+        "name": "Video Conferencing",
+        "icon": "fab fa-weixin",
+        "description": "The Suffix Video Conferencing Platform allows students to share their audio, images, chat...",
+        "serviceTitle": "video-conferencing"
+    },
+    {
+        "id": 6,
+        "type": "service",
+        "name": "Mobile Apps",
+        "icon": "fas fa-mobile-alt",
+        "description": "Get an enterprise digital assistant equipped with a long array of screen sizes, user- friendly interface...",
+        "serviceTitle": "mobile-apps"
+    },
+    {
+        "id": 7,
+        "type": "service",
+        "name": "Hospital Management",
+        "icon": "fas fa-hospital",
+        "description": "Suffix Hospital Management System has a user interface that is very easy and quick to use, and that suits...",
+        "serviceTitle": "hospital-management"
+    },
+    {
+        "id": 8,
+        "type": "service",
+        "name": "Learning Management",
+        "icon": "fas fa-graduation-cap",
+        "description": "It's time to make a decision and find out what sort of LMS would be the best choice for you...",
+        "serviceTitle": "learning-management"
+    },
+    {
+        "id": 9,
+        "type": "service",
+        "name": "Storage & Backup",
+        "icon": "fas fa-database",
+        "description": "Database backup and storage provides centrally controlled protection, security of enterprise and...",
+        "serviceTitle": "storage-backup"
+    }
+]

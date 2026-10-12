@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "price": "5",
+        "type": "BASIC",
+        "ram": "1 GB RAM",
+        "cpu": "1 CPU Core",
+        "storage": "25 GB Storage",
+        "bandWidth1": "1 TB Transfer",
+        "bandWidth2": "40 Gbps Network In",
+        "bandWidth3": "1000 Mbps Network Out",
+        "priceHeader": "pricing-card-header-basic"
+    },
+    {
+        "id": 2,
+        "price": "10",
+        "type": "PRO",
+        "ram": "2 GB RAM",
+        "cpu": "1 CPU Core",
+        "storage": "80 GB Storage",
+        "bandWidth1": "4 TB Transfer",
+        "bandWidth2": "40 Gbps Network In",
+        "bandWidth3": "4000 Mbps Network Out",
+        "priceHeader": "pricing-card-header-pro"
+    },
+    {
+        "id": 3,
+        "price": "20",
+        "type": "PREMIUM",
+        "ram": "4 GB RAM",
+        "cpu": "2 CPU Core",
+        "storage": "80 GB Storage",
+        "bandWidth1": "4 TB Transfer",
+        "bandWidth2": "40 Gbps Network In",
+        "bandWidth3": "4000 Mbps Network Out",
+        "priceHeader": "pricing-card-header-premium"
+    }
+]

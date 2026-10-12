@@ -1,0 +1,251 @@
+[
+    {
+        "id": 1,
+        "type": "management",
+        "name": "Samina Sultana",
+        "img": "https://i.ibb.co/cF51yZc/chairman.jpg",
+        "job": "Chairman"
+    },
+    {
+        "id": 2,
+        "type": "management",
+        "name": "Md. Akter Uz Zaman",
+        "img": "https://i.ibb.co/CnwFWYD/ceo.jpg",
+        "job": "Managing Director & CEO"
+    },
+    {
+        "id": 3,
+        "type": "management",
+        "name": "Md. Marufuzzaman",
+        "img": "https://i.ibb.co/mbJSQsf/marufuzzaman.jpg",
+        "job": "Director"
+    },
+    {
+        "id": 4,
+        "type": "management",
+        "name": "",
+        "img": "https://i.ibb.co/VHdmy7V/male-demo.png",
+        "job": "Director"
+    },
+    {
+        "id": 5,
+        "type": "management",
+        "name": "",
+        "img": "https://i.ibb.co/VHdmy7V/male-demo.png",
+        "job": "Director"
+    },
+    {
+        "id": 6,
+        "type": "employee",
+        "name": "M. A. Wadud Bin Akmal",
+        "img": "https://i.ibb.co/C04j7jg/himel.jpg",
+        "job": "Sr. System Engineer"
+    },
+    {
+        "id": 7,
+        "type": "employee",
+        "name": "Oni Ibn Kamal",
+        "img": "https://i.ibb.co/h8LW809/onik.png",
+        "job": "Sr. System Engineer"
+    },
+    {
+        "id": 8,
+        "type": "employee",
+        "name": "Mohammad Sulaiman",
+        "img": "https://i.ibb.co/pQfxyX1/solaiman.jpg",
+        "job": "Sr. Software Engineer"
+    },
+    {
+        "id": 9,
+        "type": "employee",
+        "name": "Touhid Hossain",
+        "img": "https://i.ibb.co/8BmwjmZ/touhid.jpg",
+        "job": "Sr. Software Engineer"
+    },
+    {
+        "id": 10,
+        "type": "employee",
+        "name": "Abdullah Al Mahfuz",
+        "img": "https://i.ibb.co/5xx5HgC/mahfuz.jpg",
+        "job": "Sr. Software Engineer"
+    },
+    {
+        "id": 11,
+        "type": "employee",
+        "name": "Ahmed Ullah Masud",
+        "img": "https://i.ibb.co/9q6t2qf/masud.jpg",
+        "job": "Sr. Software Engineer"
+    },
+    {
+        "id": 12,
+        "type": "employee",
+        "name": "Mehedi Hasan Bappy",
+        "img": "https://i.ibb.co/H7rcbQc/bappy.jpg",
+        "job": "Sr. Software Engineer"
+    },
+    {
+        "id": 13,
+        "type": "employee",
+        "name": "Md.Rakibul Islam",
+        "img": "https://i.ibb.co/k0Ft48B/rakib.jpg",
+        "job": "Sr. Business Analyst"
+    },
+    {
+        "id": 14,
+        "type": "employee",
+        "name": "Syed Anisur Rahman",
+        "img": "https://i.ibb.co/8mMwxRC/anis.jpg",
+        "job": "Marketing Executive"
+    },
+
+    {
+        "id": 15,
+        "type": "employee",
+        "name": "Md.Shohag Biswas",
+        "img": "https://i.ibb.co/898WCMt/shohag-biswas.jpg",
+        "job": "UI/UX Designer"
+    },
+    {
+        "id": 16,
+        "type": "employee",
+        "name": "Al Amin Hossain (Shohag)",
+        "img": "https://i.ibb.co/cXwZQHR/pk-shohag.jpg",
+        "job": "Software Engineer"
+    },
+    {
+        "id": 17,
+        "type": "employee",
+        "name": "Sakil Ahmed",
+        "img": "https://i.ibb.co/yNgrshz/sakil.jpg",
+        "job": "Software Engineer"
+    },
+
+    {
+        "id": 18,
+        "type": "employee",
+        "name": "Md. Naimur Rahman",
+        "img": "https://i.ibb.co/kKz1HLd/naim.jpg",
+        "job": "Software Engineer"
+    },
+
+    {
+        "id": 19,
+        "type": "employee",
+        "name": "Md. Nayeem Bhuiyan",
+        "img": "https://i.ibb.co/L82Rs1b/bhuiyan.jpg",
+        "job": "Software Engineer"
+    },
+    {
+        "id": 20,
+        "type": "employee",
+        "name": "Md. Al-Amin (Joy)",
+        "img": "https://i.ibb.co/FYSHHz0/joy.jpg",
+        "job": "Jr. Software Engineer"
+    },
+    {
+        "id": 21,
+        "type": "employee",
+        "name": "Md.Nahid-Uz-Zaman",
+        "img": "https://i.ibb.co/gyd5s3G/Shohel.jpg",
+        "job": "Jr.Software Engineer"
+    },
+    {
+        "id": 22,
+        "type": "employee",
+        "name": "Minhajul Abedin Rahat",
+        "img": "https://i.ibb.co/yWJfxk0/Minhajul-Abedin-Rahat.jpg",
+        "job": "Jr.Software Engineer"
+    },
+
+    {
+        "id": 23,
+        "type": "employee",
+        "name": "Md.Mehedi Islam",
+        "img": "https://i.ibb.co/0rj0sPH/mehedi3.jpg",
+        "job": "Accountant"
+    },
+    {
+        "id": 24,
+        "type": "employee",
+        "name": "Md.Mehedi Hasan",
+        "img": "https://i.ibb.co/xXQ96V7/mehedi.png",
+        "job": "System Engineer"
+    },
+    {
+        "id": 25,
+        "type": "employee",
+        "name": "Al-Jakir Hossain",
+        "img": "https://i.ibb.co/qs8MB6z/al-jakir.jpg",
+        "job": "System Engineer"
+    },
+    {
+        "id": 26,
+        "type": "employee",
+        "name": "Md.Rakibul Islam Rashik",
+        "img": "https://i.ibb.co/yfpttpn/rashik.jpg",
+        "job": "System Engineer"
+    },
+    {
+        "id": 27,
+        "type": "employee",
+        "name": "Abdul Azim",
+        "img": "https://i.ibb.co/0XkFyz0/azim.jpg",
+        "job": "System Engineer"
+    },
+    {
+        "id": 28,
+        "type": "employee",
+        "name": "Monsur Alam",
+        "img": "https://i.ibb.co/vL7sx4p/babu.jpg",
+        "job": "System Engineer"
+    },
+    {
+        "id": 29,
+        "type": "employee",
+        "name": "Md.Ashadulla Galib",
+        "img": "https://i.ibb.co/BnQc2LF/galib.jpg",
+        "job": "System Engineer"
+    },
+    {
+        "id": 30,
+        "type": "employee",
+        "name": "Md.Mehedi Hassan",
+        "img": "https://i.ibb.co/Q8mqVKh/mehedi2.jpg",
+        "job": "Executive"
+    },
+    {
+        "id": 31,
+        "type": "employee",
+        "name": "Md.Nazmul Haque",
+        "img": "https://i.ibb.co/1vzxgNz/nazmul.jpg",
+        "job": "System Engineer"
+    },
+    {
+        "id": 32,
+        "type": "employee",
+        "name": "Md. Ahosanul Kabir",
+        "img": "https://i.ibb.co/3sTHbt5/kabir.jpg",
+        "job": "System Engineer"
+    },
+    {
+        "id": 33,
+        "type": "employee",
+        "name": "Aminul Islam",
+        "img": "https://i.ibb.co/3NPHGZZ/aminul.jpg",
+        "job": "Associate. System Engineer"
+    },
+    {
+        "id": 34,
+        "type": "employee",
+        "name": "Md. Ariful islam",
+        "img": "https://i.ibb.co/44y4NJ5/ariful.jpg",
+        "job": "Associate. System Engineer"
+    },
+    {
+        "id": 35,
+        "type": "employee",
+        "name": "Md. Abdul Zabbar",
+        "img": "https://i.ibb.co/wcNLLnB/zabbar.jpg",
+        "job": "Associate. System Engineer"
+    }
+]
